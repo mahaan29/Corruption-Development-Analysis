@@ -1,0 +1,95 @@
+Country,Country_Code,Region,CPI_2016_Rank,Average_CPI_Score,CPI_2016_Score,CPI_2015_Score,CPI_2014_Score,CPI_2013_Score,CPI_2012_Score,Income_Group,Average_Unemployment_Rate,Unemployment_Rate_2016,Unemployment_Rate_2015,Unemployment_Rate_2014,Unemployment_Rate_2013,Unemployment_Rate_2012,Currency_Unit
+Albania,ALB,Europe & Central Asia,83,34.4,39,36,33,31,33,Upper middle income,11.9,10.5,10.5,10.5,13,15,Albanian lek
+Algeria,DZA,Middle East & North Africa,108,35.2,34,36,36,36,34,Upper middle income,8.9522,8.235,8.595,8.954,9.311,9.666,Algerian dinar
+Argentina,ARG,Latin America & Caribbean,95,34.2,36,32,34,34,35,High income: nonOECD,6.8582,6.586,6.671,6.694,7.171,7.169,Argentine peso
+Armenia,ARM,Europe & Central Asia,113,35,33,35,37,36,34,Lower middle income,18.22,17.7,17.9,18,18.5,19,Armenian dram
+Australia,AUS,East Asia & Pacific,13,80.8,79,79,80,81,85,High income: OECD,5.2048,5.133,5.133,5.208,5.333,5.217,Australian dollar
+Austria,AUT,Europe & Central Asia,17,72.2,75,76,72,69,69,High income: OECD,4.24,4,4.1,4.3,4.5,4.3,Euro
+Azerbaijan,AZE,Europe & Central Asia,123,28.6,30,29,29,28,27,Upper middle income,6.048,6.048,6.048,6.048,6.048,6.048,New Azeri manat
+Belarus,BLR,Europe & Central Asia,79,32.6,40,32,31,29,31,Upper middle income,0.6,0.6,0.6,0.6,0.6,0.6,Belarusian rubel
+Belgium,BEL,Europe & Central Asia,15,76,77,77,76,75,75,High income: OECD,7.5714,7.387,7.53,7.677,7.878,7.385,Euro
+Bhutan,BTN,South Asia,27,64.2,65,65,65,63,63,Lower middle income,3.2,3.2,3.2,3.2,3.2,3.2,Bhutanese ngultrum
+Bosnia and Herzegovina,BIH,Europe & Central Asia,83,40,39,38,39,42,42,Upper middle income,25.52,23.5,24.5,25.5,26.5,27.6,Bosnia and Herzegovina convertible mark
+Brazil,BRA,Latin America & Caribbean,79,41.2,40,38,43,42,43,Upper middle income,6.7,7,7,7,6.5,6,Brazilian real
+Bulgaria,BGR,Europe & Central Asia,75,41.4,41,41,43,41,41,Upper middle income,9.728,7.208,8.708,10.208,11.008,11.508,Bulgarian lev
+Canada,CAN,North America,9,82.2,82,83,81,81,84,High income: OECD,7.055,6.671,6.887,7.107,7.28,7.33,Canadian dollar
+Cape Verde,CPV,Sub-Saharan Africa,38,57.8,59,55,57,58,60,Lower middle income,9.4,9,9,9,10,10,Cabo Verde escudo
+Chile,CHL,Latin America & Caribbean,24,70.4,66,70,73,71,72,High income: OECD,6.8476,6.9,6.9,6.9,6.9,6.638,Chilean peso
+China,CHN,East Asia & Pacific,79,38.4,40,37,36,40,39,Upper middle income,4.1,4.1,4.1,4.1,4.1,4.1,Chinese yuan
+Colombia,COL,Latin America & Caribbean,90,36.6,37,37,37,36,36,Upper middle income,10.1,9.5,9.5,10,10.5,11,Colombian peso
+Costa Rica,CRI,Latin America & Caribbean,41,54.8,58,55,54,53,54,Upper middle income,6.14,5.2,5.5,6,6.5,7.5,Costa Rican colon
+Croatia,HRV,Europe & Central Asia,55,48.4,49,51,48,48,46,High income: nonOECD,12.681,11.067,12.029,12.797,13.331,14.181,Croatian kuna
+Cyprus,CYP,Europe & Central Asia,47,61.6,55,61,63,63,66,High income: nonOECD,12.3,12,12.5,12.8,12.5,11.7,Euro
+Czechia,CZE,Europe & Central Asia,47,51.8,55,56,51,48,49,High income: OECD,7.1324,5.5,7.235,7.923,7.959,7.045,Czech koruna
+Denmark,DNK,Europe & Central Asia,1,90.8,90,91,92,91,90,High income: OECD,4.56,3.6,3.8,4.5,5.3,5.6,Danish krone
+Dominican Republic,DOM,Latin America & Caribbean,120,31.4,31,33,32,29,32,Upper middle income,12,11,11.5,12,12.5,13,Dominican peso
+Ecuador,ECU,Latin America & Caribbean,120,32.6,31,32,33,35,32,Upper middle income,6.22,6.4,6.4,6.3,6.2,5.8,U.S. dollar
+Egypt,EGY,Middle East & North Africa,108,34.2,34,36,37,32,32,Lower middle income,13.1704,12.63,13.273,13.711,13.522,12.716,Egyptian pound
+El Salvador,SLV,Latin America & Caribbean,95,38,36,39,39,38,38,Lower middle income,5.077,4.777,4.777,5.027,5.277,5.527,U.S. dollar
+Estonia,EST,Europe & Central Asia,22,68.2,70,70,69,68,64,High income: OECD,8.5728,7.432,7.854,8.44,9.068,10.07,Euro
+Finland,FIN,Europe & Central Asia,3,89.4,89,90,89,89,90,High income: OECD,7.6942,7.6,7.7,7.74,7.795,7.636,Euro
+France,FRA,Europe & Central Asia,23,70,69,70,69,71,71,High income: OECD,10.0038,9.31,9.758,10.289,10.524,10.138,Euro
+Georgia,GEO,Europe & Central Asia,44,52.4,57,52,52,49,52,Lower middle income,13.2772,12.217,12.811,13.351,13.824,14.183,Georgian lari
+Germany,DEU,Europe & Central Asia,10,79.6,81,81,79,78,79,High income: OECD,5.215,5.2,5.2,5.191,5.271,5.213,Euro
+Greece,GRC,Europe & Central Asia,69,41.8,44,46,43,40,36,High income: OECD,23.116,19.494,22.404,24.481,25.374,23.827,Euro
+Honduras,HND,Latin America & Caribbean,123,28.8,30,31,29,26,28,Lower middle income,4.4,4.4,4.4,4.4,4.4,4.4,Honduran lempira
+Hong Kong,HKG,East Asia & Pacific,15,75.6,77,75,74,75,77,High income: nonOECD,3.2642,3.207,3.207,3.207,3.302,3.398,Hong Kong dollar
+Hungary,HUN,Europe & Central Asia,57,52.4,48,51,54,54,55,High income: OECD,10.4824,10.268,10.344,10.406,10.469,10.925,Hungarian forint
+Iceland,ISL,Europe & Central Asia,14,79.2,78,79,79,78,82,High income: OECD,5.0184,4.134,4.389,4.795,5.666,6.108,Iceland krona
+Indonesia,IDN,East Asia & Pacific,90,34.2,37,36,34,32,32,Lower middle income,5.79,5.15,5.5,6,6.1,6.2,Indonesian rupiah
+Iran,IRN,Middle East & North Africa,131,27.2,29,27,27,25,28,Upper middle income,16.5694,18.514,17.792,16.836,15.606,14.099,Iranian rial
+Ireland,IRL,Europe & Central Asia,19,72.6,73,75,74,72,69,High income: OECD,13.4954,11.482,13.095,13.677,14.41,14.813,Euro
+Israel,ISR,Middle East & North Africa,28,61.2,64,61,60,61,60,High income: OECD,6.7,6.5,6.5,6.5,7,7,Israeli new shekel
+Italy,ITA,Europe & Central Asia,60,43.8,47,44,43,43,42,High income: OECD,10.705,9.612,11.012,11.285,11.064,10.552,Euro
+Jamaica,JAM,Latin America & Caribbean,83,38.8,39,41,38,38,38,Upper middle income,13,13,13,13,13,13,Jamaican dollar
+Japan,JPN,East Asia & Pacific,20,74.2,72,75,76,74,74,High income: OECD,4.431,4.316,4.379,4.524,4.424,4.512,Japanese yen
+Jordan,JOR,Middle East & North Africa,57,48.6,48,53,49,45,48,Upper middle income,12.9,12.9,12.9,12.9,12.9,12.9,Jordanian dinar
+Kazakhstan,KAZ,Europe & Central Asia,131,28,29,28,29,26,28,Upper middle income,5.32,5.3,5.3,5.3,5.3,5.4,Kazakh tenge
+South Korea,KOR,East Asia & Pacific,52,55,53,56,55,55,56,High income: OECD,3.3,3.3,3.3,3.3,3.3,3.3,Korean won
+Kuwait,KWT,Middle East & North Africa,75,44.2,41,49,44,43,44,High income: nonOECD,2.072,2.072,2.072,2.072,2.072,2.072,Kuwaiti dinar
+Kyrgyzstan,KGZ,Europe & Central Asia,136,26.2,28,28,27,24,24,Lower middle income,7.5552,7.372,7.464,7.555,7.647,7.738,Kyrgyz som
+Latvia,LVA,Europe & Central Asia,44,53.8,57,55,55,53,49,High income: nonOECD,12.5558,10.127,11.154,12.341,13.856,15.301,Euro
+Lithuania,LTU,Europe & Central Asia,38,57.8,59,61,58,57,54,High income: nonOECD,11.4,9.5,10,11.5,12.5,13.5,Euro
+Luxembourg,LUX,Europe & Central Asia,10,80.8,81,81,82,80,80,High income: OECD,6.024,5.923,5.915,5.948,6.136,6.198,Euro
+The FYR of Macedonia,MKD,Europe & Central Asia,90,42.2,37,42,45,44,43,Upper middle income,29.4988,27.749,28.389,29.241,30.245,31.87,Macedonian denar
+Malaysia,MYS,East Asia & Pacific,55,50,49,50,52,50,49,Upper middle income,3.02,3,3,3,3,3.1,Malaysian ringgit
+Malta,MLT,Middle East & North Africa,47,55.8,55,56,55,56,57,High income: nonOECD,5.72,5.5,5.6,5.7,5.8,6,Euro
+Mauritius,MUS,Sub-Saharan Africa,50,54,54,53,54,52,57,Upper middle income,7.9016,7.549,7.658,8.038,8.197,8.066,Mauritian rupee
+Mexico,MEX,Latin America & Caribbean,123,33.6,30,35,35,34,34,Upper middle income,4.62,4.5,4.5,4.5,4.8,4.8,Mexican peso
+Moldova,MDA,Europe & Central Asia,123,33.8,30,33,35,35,36,Lower middle income,5.74,5,5.5,6,6.4,5.8,Moldovan leu
+Mongolia,MNG,East Asia & Pacific,87,38,38,39,39,38,36,Upper middle income,5.44,4.3,4.6,5.4,6.1,6.8,Mongolian tugrik
+Morocco,MAR,Middle East & North Africa,90,37.2,37,36,39,37,37,Lower middle income,8.612,8.412,8.512,8.612,8.712,8.812,Moroccan dirham
+Myanmar,MMR,East Asia & Pacific,136,21.4,28,22,21,21,15,Lower middle income,4.02,4.02,4.02,4.02,4.02,4.02,Myanmar kyat
+Netherlands,NLD,Europe & Central Asia,8,84,83,87,83,83,84,High income: OECD,5.14,4.5,5,5.3,5.7,5.2,Euro
+New Zealand,NZL,East Asia & Pacific,1,90,90,88,91,91,90,High income: OECD,5.353,4.726,4.705,5.057,5.704,6.573,New Zealand dollar
+Nicaragua,NIC,Latin America & Caribbean,145,27.6,26,27,28,28,29,Lower middle income,7.829,7.829,7.829,7.829,7.829,7.829,Nicaraguan gold cordoba
+Norway,NOR,Europe & Central Asia,6,85.8,85,87,86,86,85,High income: OECD,3.24,3.4,3.3,3.3,3.1,3.1,Norwegian krone
+Pakistan,PAK,South Asia,116,29.2,32,30,29,28,27,Lower middle income,10.5356,13.148,11.954,10.653,9.235,7.688,Pakistani rupee
+Panama,PAN,Latin America & Caribbean,87,37.4,38,39,37,35,38,Upper middle income,4.2,4.2,4.2,4.2,4.2,4.2,Panamanian balboa
+Paraguay,PRY,Latin America & Caribbean,123,26,30,27,24,24,25,Upper middle income,5.54,5.5,5.5,5.5,5.4,5.8,Paraguayan guarani
+Peru,PER,Latin America & Caribbean,101,37,35,36,38,38,38,Upper middle income,7.5,7.5,7.5,7.5,7.5,7.5,Peruvian new sol
+Philippines,PHL,East Asia & Pacific,101,35.6,35,35,38,36,34,Lower middle income,7.025,7.025,7.025,7.025,7.025,7.025,Philippine peso
+Poland,POL,Europe & Central Asia,29,60.6,62,62,61,60,58,High income: OECD,9.891,9.607,9.74,9.918,10.184,10.006,Polish zloty
+Portugal,PRT,Europe & Central Asia,29,62.6,62,63,63,62,63,High income: OECD,15.1256,14.154,14.667,15.304,16.035,15.468,Euro
+Russia,RUS,Europe & Central Asia,131,28.2,29,29,27,28,28,High income: nonOECD,6,6,6,6,6,6,Russian ruble
+Sao Tome and Principe,STP,Sub-Saharan Africa,62,42.8,46,42,42,42,42,Lower middle income,13.369,12.503,12.938,13.371,13.802,14.231,São Tomé and Principe dobra
+Singapore,SGP,East Asia & Pacific,7,85.2,84,85,84,86,87,High income: nonOECD,2.106,2.1,2.1,2.1,2.1,2.13,Singapore dollar
+Slovakia,SVK,Europe & Central Asia,54,49,51,51,50,47,46,High income: OECD,12.6424,11.177,11.968,12.838,13.528,13.701,Euro
+Slovenia,SVN,Europe & Central Asia,31,59.4,61,60,58,57,61,High income: OECD,8.54,7.9,8.3,8.7,9,8.8,Euro
+South Africa,ZAF,Sub-Saharan Africa,64,43.6,45,44,44,42,43,Upper middle income,24.3004,23.721,24.13,24.539,24.733,24.379,South African rand
+Spain,ESP,Europe & Central Asia,41,60,58,58,60,59,65,High income: OECD,23.86,22,23.2,24.1,25.1,24.9,Euro
+Sri Lanka,LKA,South Asia,95,37.6,36,37,38,37,40,Lower middle income,4.9,4.9,4.9,4.9,4.9,4.9,Sri Lankan rupee
+Sudan,SDN,Sub-Saharan Africa,170,12.2,14,12,11,11,13,Lower middle income,8.9044,7.667,8.025,8.382,9.616,10.832,Sudanese pound
+Sweden,SWE,Europe & Central Asia,4,88.2,88,89,87,89,88,High income: OECD,7.02,6.4,6.5,7,7.7,7.5,Swedish krona
+Switzerland,CHE,Europe & Central Asia,5,85.8,86,86,86,85,86,High income: OECD,3.339,3.23,3.249,3.285,3.554,3.377,Swiss franc
+Thailand,THA,East Asia & Pacific,101,36.6,35,38,38,35,37,Upper middle income,0.68,0.68,0.68,0.68,0.68,0.68,Thai baht
+Trinidad and Tobago,TTO,Latin America & Caribbean,101,37.8,35,39,38,38,39,High income: nonOECD,5.5,5.5,5.5,5.5,5.5,5.5,Trinidad and Tobago dollar
+Tunisia,TUN,Middle East & North Africa,75,40.2,41,38,40,41,41,Upper middle income,14.34,12.3,12.9,13.5,16,17,Tunisian dinar
+Turkey,TUR,Europe & Central Asia,75,45.4,41,42,45,50,49,Upper middle income,9.9542,10.15,10.15,10.15,9.883,9.438,New Turkish lira
+Ukraine,UKR,Europe & Central Asia,131,26.6,29,27,26,25,26,Lower middle income,7.5424,7.268,7.374,7.569,7.703,7.798,Ukrainian hryvnia
+United Kingdom,GBR,Europe & Central Asia,10,78,81,81,78,76,74,High income: OECD,7.7908,7.191,7.574,7.947,8.113,8.129,Pound sterling
+United States of America,USA,North America,18,74,74,76,74,73,73,High income: OECD,7.5068,6.463,7.053,7.664,8.125,8.229,U.S. dollar
+Uruguay,URY,Latin America & Caribbean,21,72.6,71,74,73,73,72,High income: nonOECD,6.94,7,7,7,7,6.7,Uruguayan peso
+Uzbekistan,UZB,Europe & Central Asia,156,18.4,21,19,18,17,17,Lower middle income,0.2,0.2,0.2,0.2,0.2,0.2,Uzbek sum
+Venezuela,VEN,Latin America & Caribbean,166,18.4,17,17,19,20,19,High income: nonOECD,8.12,8.2,8.1,8.2,8.1,8,Venezuelan bolivar fuerte
+Vietnam,VNM,East Asia & Pacific,113,31.4,33,31,31,31,31,Lower middle income,4.468,4.468,4.468,4.468,4.468,4.468,Vietnamese dong

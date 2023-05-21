@@ -1,0 +1,256 @@
+Region,Country,Average_CPI_Score,CPI_2016_Score,CPI_2015_Score,CPI_2014_Score,CPI_2013_Score,CPI_2012_Score
+AP,Korea (South),54.6,53,54,55,55,56
+EE,Montenegro,43.2,45,44,42,44,41
+AP,Thailand,36.6,35,38,38,35,37
+EE,Bosnia and Herzegovina,40.0,39,38,39,42,42
+ME,Jordan,48.6,48,53,49,45,48
+AM,El Salvador,38.0,36,39,39,38,38
+AP,Philippines,35.6,35,35,38,36,34
+EU,Spain,60.0,58,58,60,59,65
+EU,Malta,56.6,55,60,55,56,57
+AM,Colombia,36.6,37,37,37,36,36
+AF,Chad,20.4,20,22,22,19,19
+ME,Israel,61.2,64,61,60,61,60
+AF,Namibia,50.0,52,53,49,48,48
+EU,Sweden,88.2,88,89,87,89,88
+AF,Benin,36.8,36,37,39,36,36
+AP,New Zealand,90.6,90,91,91,91,90
+AF,Zimbabwe,21.0,22,21,21,21,20
+ME,Libya,16.8,14,16,18,15,21
+EU,France,70.0,69,70,69,71,71
+AM,Guatemala,30.0,28,28,32,29,33
+AF,Ghana,45.8,43,47,48,46,45
+EE,Russia,28.2,29,29,27,28,28
+AP,Cambodia,21.0,21,21,21,20,22
+AP,Taiwan,61.2,61,62,61,61,61
+AF,Botswana,63.0,60,63,63,64,65
+AF,Eritrea,19.8,18,18,18,20,25
+AF,Mauritania,29.8,27,31,30,30,31
+EU,Norway,86.0,85,88,86,86,85
+EE,Azerbaijan,28.6,30,29,29,28,27
+AM,Bolivia,34.0,33,34,35,34,34
+AF,Tanzania,32.2,32,30,31,33,35
+EU,Switzerland,85.8,86,86,86,85,86
+AM,Costa Rica,54.8,58,55,54,53,54
+AF,Rwanda,52.6,54,54,49,53,53
+EU,United Kingdom,78.0,81,81,78,76,74
+AF,South Africa,43.6,45,44,44,42,43
+EU,Poland,60.8,62,63,61,60,58
+AP,Vietnam,31.4,33,31,31,31,31
+AF,Guinea,25.0,27,25,25,24,24
+AM,Mexico,32.8,30,31,35,34,34
+AP,Sri Lanka,37.6,36,37,38,37,40
+AP,Afghanistan,10.8,15,11,12,8,8
+AM,Ecuador,32.6,31,32,33,35,32
+AF,Sierra Leone,30.2,30,29,31,30,31
+EU,Slovenia,59.4,61,60,58,57,61
+EU,Germany,79.6,81,81,79,78,79
+ME,Kuwait,44.2,41,49,44,43,44
+EE,Armenia,35.0,33,35,37,36,34
+AM,Jamaica,38.8,39,41,38,38,38
+AP,Laos,25.4,30,25,25,26,21
+AF,Guinea-Bissau,19.2,16,17,19,19,25
+AF,Togo,30.4,32,32,29,29,30
+AF,Lesotho,45.2,39,44,49,49,45
+AP,Nepal,28.6,29,27,29,31,27
+EE,Albania,34.4,39,36,33,31,33
+EU,Denmark,90.8,90,91,92,91,90
+EU,Estonia,68.2,70,70,69,68,64
+ME,Bahrain,48.4,43,51,49,48,51
+AP,Myanmar,21.4,28,22,21,21,15
+AM,Dominican Republic,31.4,31,33,32,29,32
+AP,Bhutan,64.2,65,65,65,63,63
+AM,Guyana,29.6,34,29,30,27,28
+ME,Saudi Arabia,47.4,46,52,49,46,44
+AP,China,38.4,40,37,36,40,39
+EU,Portugal,62.8,62,64,63,62,63
+EU,Romania,44.8,48,46,43,43,44
+ME,Algeria,35.2,34,36,36,36,34
+EU,Ireland,72.6,73,75,74,72,69
+EU,Cyprus,61.6,55,61,63,63,66
+EE,Uzbekistan,18.4,21,19,18,17,17
+EU,Czech Republic,51.8,55,56,51,48,49
+AF,Sao Tome and Principe,42.8,46,42,42,42,42
+AP,Hong Kong,75.6,77,75,74,75,77
+AM,Cuba,46.8,47,47,46,46,48
+EU,Bulgaria,41.4,41,41,43,41,41
+EE,Moldova,33.8,30,33,35,35,36
+AM,Honduras,28.8,30,31,29,26,28
+EU,Belgium,76.0,77,77,76,75,75
+AM,Paraguay,26.0,30,27,24,24,25
+AP,Japan,74.2,72,75,76,74,74
+AM,Peru,37.0,35,36,38,38,38
+ME,Iran,27.2,29,27,27,25,28
+AF,Senegal,41.8,45,44,43,41,36
+AF,Cape Verde,57.8,59,55,57,58,60
+AP,Indonesia,34.2,37,36,34,32,32
+EU,Austria,72.2,75,76,72,69,69
+ME,Egypt,34.2,34,36,37,32,32
+ME,Iraq,16.6,17,16,16,16,18
+AF,Ethiopia,33.2,34,33,33,33,33
+AF,Burundi,20.2,20,21,20,21,19
+ME,Lebanon,28.2,28,28,27,28,30
+AP,Mongolia,38.0,38,39,39,38,36
+AM,Argentina,34.2,36,32,34,34,35
+ME,Qatar,67.4,61,71,69,68,68
+EE,Belarus,32.6,40,32,31,29,31
+EE,Kyrgyzstan,26.2,28,28,27,24,24
+AM,Haiti,18.8,20,17,19,19,19
+AP,Malaysia,50.0,49,50,52,50,49
+EU,Finland,89.4,89,90,89,89,90
+AP,Singapore,85.2,84,85,84,86,87
+AM,Uruguay,72.6,71,74,73,73,72
+AM,Venezuela,18.4,17,17,19,20,19
+AF,Mozambique,30.0,27,31,31,30,31
+ME,Oman,45.8,45,45,45,47,47
+EU,Iceland,79.2,78,79,79,78,82
+ME,Tunisia,40.2,41,38,40,41,41
+AF,Djibouti,34.0,30,34,34,36,36
+ME,Yemen,18.4,14,18,19,18,23
+EE,Turkey,45.4,41,42,45,50,49
+ME,Morocco,37.2,37,36,39,37,37
+AF,Madagascar,28.4,26,28,28,28,32
+EU,Slovakia,49.0,51,51,50,47,46
+AM,Suriname,38.0,45,36,36,36,37
+ME,Syria,18.8,13,18,20,17,26
+ME,United Arab Emirates,68.6,66,70,70,69,68
+EU,Italy,43.8,47,44,43,43,42
+EU,Hungary,52.4,48,51,54,54,55
+AM,Canada,82.2,82,83,81,81,84
+AF,Zambia,37.8,38,38,38,38,37
+EE,Turkmenistan,18.2,22,18,17,17,17
+AM,Trinidad and Tobago,37.8,35,39,38,38,39
+AP,Australia,80.8,79,79,80,81,85
+AF,Angola,19.4,18,15,19,23,22
+EE,Serbia,40.8,42,40,41,42,39
+AM,Chile,70.4,66,70,73,71,72
+AF,Nigeria,26.6,28,26,27,25,27
+AF,Cameroon,26.2,26,27,27,25,26
+AM,Nicaragua,27.6,26,27,28,28,29
+AM,Panama,37.4,38,39,37,35,38
+EU,Croatia,48.4,49,51,48,48,46
+AF,Gambia,29.0,26,28,29,28,34
+EU,Greece,41.8,44,46,43,40,36
+AM,Brazil,41.2,40,38,43,42,43
+AF,Kenya,26.0,26,25,25,27,27
+AP,Papua New Guinea,25.6,28,25,25,25,25
+AF,Mali,32.2,32,35,32,28,34
+AP,Timor-Leste,30.8,35,28,28,30,33
+AP,Pakistan,29.2,32,30,29,28,27
+AF,Gabon,35.0,35,34,37,34,35
+AF,Burkina Faso,38.8,42,38,38,38,38
+EE,Kosovo,33.8,36,33,33,33,34
+AP,India,37.6,40,38,38,36,36
+AF,Liberia,38.0,37,37,37,38,41
+AF,Uganda,26.2,25,25,26,26,29
+AF,Malawi,33.8,31,31,33,37,37
+EU,Netherlands,83.4,83,84,83,83,84
+EU,Lithuania,57.4,59,59,58,57,54
+EE,Tajikistan,23.6,25,26,23,22,22
+ME,Sudan,12.2,14,12,11,11,13
+AP,Bangladesh,25.8,26,25,25,27,26
+EE,Kazakhstan,28.0,29,28,29,26,28
+AF,Somalia,8.4,10,8,8,8,8
+AF,Comoros,26.4,24,26,26,28,28
+AP,Korea (North),8.8,12,8,8,8,8
+EE,Georgia,52.4,57,52,52,49,52
+AF,Niger,34.2,35,34,35,34,33
+EU,Luxembourg,81.6,81,85,82,80,80
+AF,Central African Republic,23.8,20,24,24,25,26
+EU,Latvia,54.0,57,56,55,53,49
+AF,Mauritius,54.0,54,53,54,52,57
+EE,Ukraine,26.6,29,27,26,25,26
+EP,Thailand,36.6,35,38,38,35,37
+EA,Bosnia and Herzegovina,40,39,38,39,42,42
+MA,Jordan,48.6,48,53,49,45,48
+LC,El Salvador,38,36,39,39,38,38
+EP,Philippines,35.6,35,35,38,36,34
+EA,Spain,60,58,58,60,59,65
+MA,Malta,55.8,55,56,55,56,57
+LC,Colombia,36.6,37,37,37,36,36
+MA,Israel,61.2,64,61,60,61,60
+EA,Sweden,88.2,88,89,87,89,88
+EP,New Zealand,90,90,88,91,91,90
+EA,France,70,69,70,69,71,71
+EA,Russia,28.2,29,29,27,28,28
+EA,Norway,85.8,85,87,86,86,85
+EA,Azerbaijan,28.6,30,29,29,28,27
+EA,Switzerland,85.8,86,86,86,85,86
+LC,Costa Rica,54.8,58,55,54,53,54
+EA,United Kingdom,78,81,81,78,76,74
+SA,South Africa,43.6,45,44,44,42,43
+EA,Poland,60.6,62,62,61,60,58
+EP,Vietnam,31.4,33,31,31,31,31
+LC,Mexico,33.6,30,35,35,34,34
+SA,Sri Lanka,37.6,36,37,38,37,40
+LC,Ecuador,32.6,31,32,33,35,32
+EA,Slovenia,59.4,61,60,58,57,61
+EA,Germany,79.6,81,81,79,78,79
+MA,Kuwait,44.2,41,49,44,43,44
+EA,Armenia,35,33,35,37,36,34
+LC,Jamaica,38.8,39,41,38,38,38
+EA,Albania,34.4,39,36,33,31,33
+EA,Denmark,90.8,90,91,92,91,90
+EA,Estonia,68.2,70,70,69,68,64
+EP,Myanmar,21.4,28,22,21,21,15
+LC,Dominican Republic,31.4,31,33,32,29,32
+SA,Bhutan,64.2,65,65,65,63,63
+EP,China,38.4,40,37,36,40,39
+EA,Portugal,62.6,62,63,63,62,63
+MA,Algeria,35.2,34,36,36,36,34
+EA,Ireland,72.6,73,75,74,72,69
+EA,Cyprus,61.6,55,61,63,63,66
+EA,Czechia,51.8,55,56,51,48,49
+EA,Uzbekistan,18.4,21,19,18,17,17
+SA,Sao Tome and Principe,42.8,46,42,42,42,42
+EP,Hong Kong,75.6,77,75,74,75,77
+EA,Bulgaria,41.4,41,41,43,41,41
+EA,Moldova,33.8,30,33,35,35,36
+LC,Honduras,28.8,30,31,29,26,28
+EA,Belgium,76,77,77,76,75,75
+LC,Paraguay,26,30,27,24,24,25
+EP,Japan,74.2,72,75,76,74,74
+LC,Peru,37,35,36,38,38,38
+MA,Iran,27.2,29,27,27,25,28
+SA,Cape Verde,57.8,59,55,57,58,60
+EP,Indonesia,34.2,37,36,34,32,32
+EA,Austria,72.2,75,76,72,69,69
+MA,Egypt,34.2,34,36,37,32,32
+NA,United States of America,74,74,76,74,73,73
+EP,Mongolia,38,38,39,39,38,36
+LC,Argentina,34.2,36,32,34,34,35
+EA,Belarus,32.6,40,32,31,29,31
+EA,Kyrgyzstan,26.2,28,28,27,24,24
+EA,The FYR of Macedonia,42.2,37,42,45,44,43
+EP,Malaysia,50,49,50,52,50,49
+EA,Finland,89.4,89,90,89,89,90
+EP,Singapore,85.2,84,85,84,86,87
+LC,Uruguay,72.6,71,74,73,73,72
+LC,Venezuela,18.4,17,17,19,20,19
+EA,Iceland,79.2,78,79,79,78,82
+MA,Tunisia,40.2,41,38,40,41,41
+EP,South Korea,55,53,56,55,55,56
+EA,Turkey,45.4,41,42,45,50,49
+MA,Morocco,37.2,37,36,39,37,37
+EA,Slovakia,49,51,51,50,47,46
+EA,Italy,43.8,47,44,43,43,42
+EA,Hungary,52.4,48,51,54,54,55
+NA,Canada,82.2,82,83,81,81,84
+LC,Trinidad and Tobago,37.8,35,39,38,38,39
+EP,Australia,80.8,79,79,80,81,85
+LC,Chile,70.4,66,70,73,71,72
+LC,Nicaragua,27.6,26,27,28,28,29
+LC,Panama,37.4,38,39,37,35,38
+EA,Croatia,48.4,49,51,48,48,46
+EA,Greece,41.8,44,46,43,40,36
+LC,Brazil,41.2,40,38,43,42,43
+SA,Pakistan,29.2,32,30,29,28,27
+EA,Netherlands,84,83,87,83,83,84
+EA,Lithuania,57.8,59,61,58,57,54
+SA,Sudan,12.2,14,12,11,11,13
+EA,Kazakhstan,28,29,28,29,26,28
+EA,Georgia,52.4,57,52,52,49,52
+EA,Luxembourg,80.8,81,81,82,80,80
+EA,Latvia,53.8,57,55,55,53,49
+SA,Mauritius,54,54,53,54,52,57
+EA,Ukraine,26.6,29,27,26,25,26

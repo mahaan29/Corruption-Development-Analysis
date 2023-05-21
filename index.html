@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>D3 Project Starter Template</title>
+    <meta charset="UTF-8">
+    <link rel="icon" href="data:;base64,iVBORwOKGO=" />
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>Corruption and Development:
+    A Visual Analysis
+</h1>
+<!-- Add HTML content, SVG drawing area, ... -->
+
+<section class="layout">
+    <div class="map">
+        <div class="qstooltip" >
+            <div id="qsmark" >?</div>
+            <span class="tooltiptext">Corruption Perception Index (CPI) currently ranks 180 countries on a scale from 100 (very clean) to 0 (highly corrupt)</span>
+        </div>
+        <svg width = 900 height=640 id="map"></svg>
+    </div>
+
+
+    <div class="barchart"><svg id="barchart"></svg>
+        <label for="radius-slider">Year: <span id="radius-value">2016</span></label>
+        <input type="range" min="2012" value="2016" max="2016" id="radius-slider"
+               title="Adjust the slider to reflect the changes in data on the map and scatterplot for the years 2012-2016">
+    </div>
+    <div class="linechart"><div>
+        <button onclick="resetButton()">Reset</button>
+    </div> <svg id="linechart"></svg></div>
+    <div class="scatterplot">    <svg id="scatterplot"></svg>
+        <ul class="legend">
+            <li class="legend-e" data-region="East Asia & Pacific"><span class="legend-symbol"></span> East Asia & Pacific</li>
+            <li class="legend-e" data-region="Europe & Central Asia"><span class="legend-symbol"></span> Europe and Central Asia</li>
+            <li class="legend-e" data-region="North America"><span class="legend-symbol"></span> North America</li>
+            <li class="legend-e" data-region="Middle East & North Africa"><span class="legend-symbol"></span> Middle East and North Africa</li>
+            <li class="legend-e" data-region="Sub-Saharan Africa"><span class="legend-symbol"></span> Sub-Saharan Africa</li>
+            <li class="legend-e" data-region="Latin America & Caribbean"><span class="legend-symbol"></span> Latin America & Caribbean</li>
+            <li class="legend-e" data-region="South Asia"><span class="legend-symbol"></span> South Asia</li>
+        </ul></div>
+    <div id="tooltip"></div>
+</section>
+
+
+
+<!-- D3 bundle -->
+<script src="js/d3.v6.min.js"></script>
+
+<!-- Our JS code -->
+<script src="js/scatterplot.js"></script>
+<script src="js/topojson.v3.js"></script>
+<script src="js/choroplethMap.js"></script>
+<script src="js/linechart.js"></script>
+<script src="js/barchart.js"></script>
+<script src="js/main.js"></script>
+<script src="js/d3-regression.min.js"></script>
+
+</body>
+</html>

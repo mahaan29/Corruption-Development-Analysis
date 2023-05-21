@@ -1,0 +1,200 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 13px;
+    padding: 30px;
+    background: lightgrey;
+}
+
+h1 {
+    margin-top: 0;
+}
+/* Axes */
+.axis line {
+    fill: none;
+    stroke: #ddd;
+    shape-rendering: crispEdges;
+}
+.axis text {
+    font-size: 13px;
+}
+.y-axis .tick:first-child line {
+    stroke: #b1b1b1;
+}
+.y-axis .tick:first-child text {
+    display: none;
+}
+.x-axis .tick:first-child line {
+    display: none;
+}
+.axis path {
+    display: none;
+}
+
+/* Legend */
+.legend {
+    margin: 20px 0;
+    list-style: none;
+    padding: 0;
+}
+.legend li {
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+.legend-e {
+    width: 12px;
+    height: 12px;
+    margin-right: 3px;
+    display: inline-block;
+}
+
+.legend-e.active {
+    opacity: 0.5;
+}
+
+.legend-symbol {
+    width: 12px;
+    height: 12px;
+    margin-right: 3px;
+    display: inline-block;
+}
+
+.legend-e[data-region="East Asia & Pacific"] .legend-symbol {
+    background: red;
+}
+.legend-e[data-region="Europe & Central Asia"] .legend-symbol {
+    background: green;
+}
+.legend-e[data-region="North America"] .legend-symbol {
+    background: pink;
+}
+.legend-e[data-region="Middle East & North Africa"] .legend-symbol {
+    background: blue;
+}
+.legend-e[data-region="Sub-Saharan Africa"] .legend-symbol {
+    background: yellow;
+}
+.legend-e[data-region="Latin America & Caribbean"] .legend-symbol {
+    background: purple;
+}
+.legend-e[data-region="South Asia"] .legend-symbol {
+    background: orange;
+}
+
+/* tooltip */
+
+#tooltip {
+    position: absolute;
+    opacity: 0;
+    background: #fff;
+    box-shadow: 2px 2px 3px 0 rgb(92 92 92 / 0.5);
+    border: 1px solid #ddd;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 2px 8px;
+    left: 0;
+    top: 0;
+    transform: translate(-50%, -450%);
+}
+
+.point:hover {
+    stroke: #000000;
+}
+
+.country:hover {
+    stroke: #333;
+}
+
+
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #333;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+.bar {
+    fill: steelblue;
+    shape-rendering: crispEdges;
+}
+
+#linechart .line{
+    cursor: pointer;
+}
+
+/* Layout */
+.layout {
+    width: 1366px;
+    height: 768px;
+    display: grid;
+    position: relative;
+    grid:
+    "map barchart" 1fr
+    "linechart scatterplot" 1fr
+    / 1fr 1fr;
+    gap: 8px;
+}
+
+.map { grid-area: map; }
+.barchart { grid-area: barchart; }
+.linechart { grid-area: linechart; }
+.scatterplot { grid-area: scatterplot; }
+
+#radius-value {
+    width: 30px;
+    display: inline-block;
+}
+#radius-slider {
+    width: 300px;
+    margin: 100px 45px;
+}
+
+.qstooltip {
+    position: absolute;
+    font-size: 20px;
+    display: inline-block;
+    text-align:center;
+    bottom: 100%;
+    left: 55%;
+
+    width: 45px;
+    height: 45px;
+    line-height: 50px;
+    border-radius: 50%;
+
+    color: black;
+
+    background: white;
+    stroke: #000000;
+
+}
+
+.qstooltip .tooltiptext {
+    font-size: 15px;
+    visibility: hidden;
+    width: 220px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    line-height: 15px;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 0%;
+    margin-left: -60px;
+}
+
+.qstooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
