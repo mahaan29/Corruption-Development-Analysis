@@ -1,6 +1,4 @@
-<a name="_eex1shw95zr1"></a><a name="_r2hx0dvam1m8"></a><a name="_l6oonil74mwp"></a>Corruption and Development:
-
-<a name="_dmss666szoye"></a>A Visual Analysis
+<a name="_eex1shw95zr1"></a><a name="_r2hx0dvam1m8"></a><a name="_l6oonil74mwp"></a>Corruption and Development: A Visual Analysis
 
 
 
@@ -32,9 +30,6 @@ Link to Demo Video:
 |[Tasks](#_12xntzgejv60)|**4**|
 |[Visualisations](#_eh83rii0zr2t)|**5**|
 |[Usage Scenarios](#_edae6o5962wd)|**8**|
-|[Reflection](#_paa59gxus0e6)|**11**|
-|[Work breakdown and schedule](#_6yjikj9km0e)|**11**|
-|[Credits](#_t20da15y90ik)|**14**|
 
 
 # <a name="_42t79chizger"></a>**Overview**
@@ -98,9 +93,13 @@ Here is the description of the data:
 1. {*Explore,* distribution} of countries grouping them by region comparing corruption index and unemployment rate
 # <a name="_eh83rii0zr2t"></a>**Visualisations**
 
-Our visualisation is centred around the choropleth map which allows the users to see through the different saturation the differences in the corruption index. While hovering, the user is shown a tooltip that gives the name of the country and the specific corruption index. The mark is interlocking areas and the channel is colour saturation. In the next iteration, the user will be able to click on countries on the map which will plot them onto the line chart. The user will be able to plot multiple countries to compare them up to a limit of 12. We chose a map because we have data on around 170 countries so a map was the most practical way to browse and display our data.![](Aspose.Words.8b36a931-f16e-4db6-9105-ad34566e9edb.002.png)
+Our visualisation is centred around the choropleth map which allows the users to see through the different saturation the differences in the corruption index. While hovering, the user is shown a tooltip that gives the name of the country and the specific corruption index. The mark is interlocking areas and the channel is colour saturation. In the next iteration, the user will be able to click on countries on the map which will plot them onto the line chart. The user will be able to plot multiple countries to compare them up to a limit of 12. We chose a map because we have data on around 170 countries so a map was the most practical way to browse and display our data.
 
-The scatterplot shows the correlation between unemployment level and corruption for each country. The points are colour coded by region and a legend at the bottom helps to better understand it. On hover, the user is shown a tooltip with the name of the selected country. The mark is point and the channels are ​​vertical position, horizontal position and colour hue. We chose a scatter plot because it is the perfect tool to display correlation between 2 variables.![](Aspose.Words.8b36a931-f16e-4db6-9105-ad34566e9edb.003.png)
+[](Aspose.Words.8b36a931-f16e-4db6-9105-ad34566e9edb.002.png)
+
+The scatterplot shows the correlation between unemployment level and corruption for each country. The points are colour coded by region and a legend at the bottom helps to better understand it. On hover, the user is shown a tooltip with the name of the selected country. The mark is point and the channels are ​​vertical position, horizontal position and colour hue. We chose a scatter plot because it is the perfect tool to display correlation between 2 variables.
+
+[](Aspose.Words.8b36a931-f16e-4db6-9105-ad34566e9edb.003.png)
 
 The line chart plots the change in the corruption index over time. Multiple lines are shown at the same time so the user can quickly and easily compare different countries.
 
