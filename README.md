@@ -95,11 +95,11 @@ Here is the description of the data:
 
 Our visualisation is centred around the choropleth map which allows the users to see through the different saturation the differences in the corruption index. While hovering, the user is shown a tooltip that gives the name of the country and the specific corruption index. The mark is interlocking areas and the channel is colour saturation. In the next iteration, the user will be able to click on countries on the map which will plot them onto the line chart. The user will be able to plot multiple countries to compare them up to a limit of 12. We chose a map because we have data on around 170 countries so a map was the most practical way to browse and display our data.
 
-[](Aspose.Words.8b36a931-f16e-4db6-9105-ad34566e9edb.002.png)
+![](Aspose.Words.8b36a931-f16e-4db6-9105-ad34566e9edb.002.png)
 
 The scatterplot shows the correlation between unemployment level and corruption for each country. The points are colour coded by region and a legend at the bottom helps to better understand it. On hover, the user is shown a tooltip with the name of the selected country. The mark is point and the channels are ​​vertical position, horizontal position and colour hue. We chose a scatter plot because it is the perfect tool to display correlation between 2 variables.
 
-[](Aspose.Words.8b36a931-f16e-4db6-9105-ad34566e9edb.003.png)
+![](Aspose.Words.8b36a931-f16e-4db6-9105-ad34566e9edb.003.png)
 
 The line chart plots the change in the corruption index over time. Multiple lines are shown at the same time so the user can quickly and easily compare different countries.
 
@@ -139,4 +139,7 @@ To ensure the interface does not get too cluttered, if Sophie adds too many coun
 Sophie then uses the bar chart to explore the correlation between income levels and corruption index scores. The chart shows that there is a strong negative correlation between these two variables, which means that higher-income countries tend to have lower corruption levels. Hovering over a bar will highlight the bar and show the average corruption score for that income group.
 
 
-Finally, Sophie uses the scatterplot to investigate the relationship between corruption index scores and unemployment levels. The scatterplot is colour-coded by region, which helps her quickly see whether there is a link between these two variables. She is able to interact with the legend to filter the data by region. The scatterplot also has a regression line which further helps to visualise correlation. It also has a tooltip which helps to identify specific countries by name.![](Aspose.Words.8b36a931-f16e-4db6-9105-ad34566e9edb.011.png)![](Aspose.Words.8b36a931-f16e-4db6-9105-ad34566e9edb.012.png)
+Finally, Sophie uses the scatterplot to investigate the relationship between corruption index scores and unemployment levels. The scatterplot is colour-coded by region, which helps her quickly see whether there is a link between these two variables. She is able to interact with the legend to filter the data by region. The scatterplot also has a regression line which further helps to visualise correlation. It also has a tooltip which helps to identify specific countries by name.
+
+![](Aspose.Words.8b36a931-f16e-4db6-9105-ad34566e9edb.011.png)
+![](Aspose.Words.8b36a931-f16e-4db6-9105-ad34566e9edb.012.png)
